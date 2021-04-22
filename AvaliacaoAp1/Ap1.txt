@@ -1,0 +1,9 @@
+
+1-Primeiro criamos o repositório no GitHub
+2-Depois, copiamos o link do repositório
+3-Use o comando git clone https://github.com/FelipeRsnd/AvaliacaoAp1.git (Apontnaod um repositório existente e criando uma cópia diretamente no seu pc)
+4-mkdir AvaliacaoAp1(Para criar uma pasta com  o nome desejado)
+5- touch Ap1.txt (para criar o arquivo dentro da pasta)
+6- git commit -m "Mensagem qualquer"(Para pegar todos os arquivos desta pasta e criar uma revisão com número listado e comentário)
+7- git remote add origin https://github.com/FelipeRsnd/AvaliacaoAp1.git (Para fazer com que a pasta remota se ligue ao repositório no github)
+8-git push --set-upstream origin master (Para enviar o arquivo até o github após colocar sua conta)
