@@ -12,8 +12,3 @@
 
 
 
-Testando Git Pull
-
-Testando Git Pull
-
-Estou trabalhando na branch 1
