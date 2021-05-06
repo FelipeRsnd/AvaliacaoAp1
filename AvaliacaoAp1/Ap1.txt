@@ -7,8 +7,3 @@
 6- git commit -m "Mensagem qualquer"(Para pegar todos os arquivos desta pasta e criar uma revisão com número listado e comentário)
 7- git remote add origin https://github.com/FelipeRsnd/AvaliacaoAp1.git (Para fazer com que a pasta remota se ligue ao repositório no github)
 8-git push --set-upstream origin master (Para enviar o arquivo até o github após colocar sua conta)
-
-
-
-
-
